@@ -14,6 +14,7 @@ Le service permet :
 
 ```
 src/
+│
 ├── MonserviceWeb.java   # Service SOAP (endpoints)
 ├── Etudiant.java        # Modèle de données (JAXB)
 └── Application.java     # Déploiement du service
