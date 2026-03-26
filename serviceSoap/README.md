@@ -13,7 +13,7 @@ Le service permet :
 ## Architecture
 
 ```
-src
+src/
 ├── MonserviceWeb.java   # Service SOAP (endpoints)
 ├── Etudiant.java        # Modèle de données (JAXB)
 └── Application.java     # Déploiement du service
