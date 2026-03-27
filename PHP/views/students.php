@@ -1,9 +1,14 @@
+<?php
+require_once __DIR__ . '/../services/StudentService.php';
+$students = StudentService::getAllStudents();
+?>
+
 <!DOCTYPE html>
 <html lang="fr"> 
 <head> 
     <meta charset="UTF-8"> 
     <title>Liste des etudiants</title> 
-    <link rel="stylesheet" href = "./assets/style.css"> 
+    <link rel="stylesheet" href = "/student_client/assets/style.css"> 
 </head>
 <body>
     <h1>Liste des etudiants</h1> 
