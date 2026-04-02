@@ -1,4 +1,4 @@
-# Du développement au déploiement d'applications web (Cours)
+# Du développement au déploiement d'applications web
 
 Ce dépôt regroupe plusieurs implémentations réalisées en cours autour des **architectures API** et des **services web**.
 
