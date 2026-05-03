@@ -12,6 +12,7 @@ Mettre en pratique :
 - La mise en place d’un service SOAP en Java
 - La consommation d’API via un client PHP
 - L’utilisation de Flask avec une base MySQL
+- Contenarisation d'une application simple avec Docker
 
 ## Organisation 
 
@@ -32,6 +33,9 @@ Le dépôt est structuré en plusieurs modules indépendants :
 - **API REST Flask + MySQL**  
     API complète avec persistance des données  
     → Voir le README du dossier
+
+  -**Docker**
+  Apprentisage et explication simple sur la contenarisation d'un API REST.
     
 ## Technologies utilisées
 
@@ -39,6 +43,7 @@ Le dépôt est structuré en plusieurs modules indépendants :
 - Java (SOAP)
 - PHP (XAMPP)
 - MySQL
+- Docker
 
 ## Remarque
 
