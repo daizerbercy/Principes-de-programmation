@@ -35,7 +35,7 @@ Le dépôt est structuré en plusieurs modules indépendants :
     → Voir le README du dossier
 
 - **Docker**
-  Apprentisage et explication simple sur la contenarisation d'un API REST.
+      Apprentisage et explication simple sur la contenarisation d'un API REST.
     
 ## Technologies utilisées
 
